@@ -1,0 +1,10 @@
+---
+title: Contentrain Nextjs Blog Starter Asdsad
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
